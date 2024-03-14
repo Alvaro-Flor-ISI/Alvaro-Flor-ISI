@@ -25,6 +25,4 @@
   <a href = "mailto:alvaro.flor@senairs.org.br"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>  
 
 ![Snake animation](https://github.com/Alvaro-Flor-ISI/Alvaro-Flor-ISI/blob/output/github-contribution-grid-snake.svg)  
-
- 
 </div>
