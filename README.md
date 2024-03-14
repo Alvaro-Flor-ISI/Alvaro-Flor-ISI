@@ -27,7 +27,7 @@
 ![Snake animation](https://github.com/Alvaro-Flor-ISI/Alvaro-Flor-ISI/blob/output/github-contribution-grid-snake.svg)
   
 ##  
-  <img src="https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white">
+  <img src="https://img.shields.io/badge/Intel-Core_i5-0071C5?style=for-the-badge&logo=intel&logoColor=white">
   
 ##
   
